@@ -1,0 +1,14 @@
+(dp0
+S'Student3'
+p1
+S'Rachel'
+p2
+sS'Student2'
+p3
+S'Bob'
+p4
+sS'student1'
+p5
+S'Alice'
+p6
+s.
